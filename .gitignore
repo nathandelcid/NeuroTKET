@@ -1,4 +1,5 @@
 .venv
+.misc/
 tket/
 milestones.pdf
 schedule.ipynb
